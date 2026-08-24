@@ -38,4 +38,4 @@ Yes, it's built and tested for Windows.
 - [ ] Run the setup file and follow the on-screen instructions.
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.      
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.       
